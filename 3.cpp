@@ -40,6 +40,7 @@ int main ()
   cin>>button;
   
  switch(button) // switch(expression you want to compare with in below case) { as in if else method ..if(button=='a')..} here button is comparison variable
+                // this expression is taken by user ex: char button; ... cin>>buttoon;
  {
      case 'a':
         cout<<"Namste"; 
@@ -57,3 +58,50 @@ int main ()
     break;
      
  }
+
+  
+  //calculator program :
+  
+  
+  
+  
+  #include<iostream>
+using namespace std;
+
+int main ()
+{
+    int n1,n2;
+    cout<<"n1 and n2"<<endl;
+    cin>>n1>>n2;
+    
+    char op;
+    cout<<"op"<<endl;
+    cin>>op;
+    
+    switch(op)
+    {
+        case '+':
+        cout<<n1+n2<<endl;
+        break;
+        
+        case '-':
+        cout<<n1-n2<<endl;
+        break;
+        
+        case '*':
+        cout<<n1*n2<<endl;
+        break;
+        
+        case '/':
+        cout<<n1/n2<<endl;
+        break;
+    }
+    
+    
+
+
+
+
+
+  return 0;
+}
