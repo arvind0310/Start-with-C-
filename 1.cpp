@@ -14,7 +14,7 @@ main ()
 	  break;
 	}
 	
-	/*   wrong  ('55' test case fail  ) if will enter immidiately on else when if condition false */ 
+	/*   wrong  ('55' test case fail  ) if will enter immidiately on else when if condition false [we cant conclude it is prime untill all iteration is finished]*/ 
 	
 //       else 
 //       {
