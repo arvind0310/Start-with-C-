@@ -6,7 +6,7 @@ int main ()
   cout<<"button number:"<<endl;
   cin>>button;
   
-  if(button=='a') // here you cant do .....if(button=="a")..error...ISO C++ forbids comparison between pointer and integer
+  if(button=='a') // here button is char so you cant do .....if(button=="a")..error...ISO C++ forbids comparison between pointer and integer
   {
       cout<<"Namaste"<<endl;
   }
@@ -53,7 +53,7 @@ int main ()
         cout<<"hola";
         break;
         
-    default:
+    default:  // its like "else"
     cout<<"Im still learning";
     break;
      
@@ -95,6 +95,11 @@ int main ()
         case '/':
         cout<<n1/n2<<endl;
         break;
+        
+        default:
+        cout<<"operator not define"<<endl;
+        break;
+        
     }
     
     
