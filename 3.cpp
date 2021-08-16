@@ -39,7 +39,7 @@ int main ()
   cout<<"button number:"<<endl;
   cin>>button;
   
- switch(button)
+ switch(button) // switch(expression you want to compare with in below case) { as in if else method ..if(button=='a')..} here button is comparison variable
  {
      case 'a':
         cout<<"Namste"; 
