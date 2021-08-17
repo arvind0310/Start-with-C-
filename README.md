@@ -4,3 +4,4 @@
 3. Switch case {Comapring with if}
 4. Bit Wise Operator
 5. Patterns
+6. Reverse a number
