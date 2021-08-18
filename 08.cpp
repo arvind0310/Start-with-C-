@@ -5,9 +5,16 @@ i have written "print" above "add".*/
 //                  OR
 
 
-// Use Function prototye (tell compiler that okay this functuon is comming ahead be ready)
-                
+/* Use Function prototye (tell compiler that okay this functuon is comming ahead be ready)
+     
+     
+     
+     
+//The syntax for function declaration is-
+return-type function_name (parameter 1, parameterϮ ...... parameter n){
 
+//function_body
+} */
 
 
 
