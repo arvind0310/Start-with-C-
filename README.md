@@ -5,3 +5,4 @@
 4. Bit Wise Operator
 5. Patterns
 6. Reverse a number
+7. Armstrong Number
