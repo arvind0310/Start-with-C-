@@ -74,7 +74,9 @@ _________________________________ ___________________________________ __________
 using namespace std;
 int i,n;
             
-int isprime(int n){
+bool isprime(int n){   // return data type is bool (will give true or false ) 
+                        //if you make it "int" then it will return 0 or 1
+    
     for(i=2;i<n;i++)
     {
         if(n%i==0)
