@@ -11,3 +11,5 @@
 10. Fibonacci numbers
 11. Factorial
 12. Combinations Calculator (nCr)
+13. Pascal's triangle
+14. 
