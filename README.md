@@ -9,3 +9,4 @@
 8. Functions 
 9. Prime nos using Function [Programm 1,2]
 10. Fibonacci numbers
+11. Factorial
