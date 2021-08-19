@@ -24,7 +24,8 @@ main ()
     
     
     }
-  if (i == n) // did it competed the all iteration?
+  if (i == n) // did it competed the all iteration? else it will print "Not a prime no Prime no" 
+	       // cz after printing "non prime" it will come out of loop and just after "prime" is written so will print both. Hence apply condtion just after the loop.
     {
       cout<<"prime no "<<endl;
     }
