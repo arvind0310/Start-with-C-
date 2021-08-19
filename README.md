@@ -7,3 +7,4 @@
 6. Reverse a number
 7. Armstrong Number
 8. Functions 
+9. Prime using Function
