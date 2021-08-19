@@ -10,3 +10,4 @@
 9. Prime nos using Function [Programm 1,2]
 10. Fibonacci numbers
 11. Factorial
+12. Combinations Calculator (nCr)
