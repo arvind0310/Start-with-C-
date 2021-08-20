@@ -12,4 +12,5 @@
 11. Factorial
 12. Combinations Calculator (nCr)
 13. Pascal's triangle
-14. 1, 4, 10, 20, 35, 56, 84, 120..... Series.  
+14. 1, 4, 10, 20, 35, 56, 84, 120..... Series.
+15. Sum of first n number
