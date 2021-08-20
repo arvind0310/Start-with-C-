@@ -21,3 +21,30 @@ cout<<reverse;
 // 1/10==(quationt)==0
 //1%10== (remainder)==1
 }
+
+
+//___________________________________________________________________________________________________________________________________________________________
+
+
+// Sum of Digit 
+
+
+#include<iostream>
+using namespace std;
+int
+main ()
+{
+int n;
+cin>>n;
+int ans=0;
+while(n>0)
+{
+    int last_digit=n%10; 
+    ans=ans+last_digit;
+    n=n/10; 
+}
+cout<<ans;
+
+
+  return 0;
+}
