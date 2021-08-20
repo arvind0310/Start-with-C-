@@ -15,3 +15,4 @@
 14. 1, 4, 10, 20, 35, 56, 84, 120..... Series.
 15. Sum of first n number
 16. Check pythagorian triplet
+17. Binary to Decimal
