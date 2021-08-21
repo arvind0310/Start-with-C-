@@ -16,3 +16,5 @@
 15. Sum of first n number
 16. Check pythagorian triplet
 17. Binary to Decimal
+# Array
+18. Size of an array and no of element in array
