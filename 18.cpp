@@ -13,6 +13,11 @@ here if you will enter only 3 element in 4 size array still the size of array wi
 using namespace std;
 int main()
 {
+//     int n;
+//     cin>>n;
+//     arr[n]={1,2,3,4}
+    //OR
+    
     int arr[10] = {1,2,3,4};
     int count=0;
     for(int i=0;i<10;i++) // 0 to 9 which is 10 times
