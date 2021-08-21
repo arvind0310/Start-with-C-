@@ -30,4 +30,5 @@ learn something by myself ... listed as C1,C2...
 23. Search index of element in unsorted array.
     a) normal
     b) using function
-24. Insert Element in Array at a Specific Position 
+24. Insert Element at the end of Array. 
+25. Insert Element in Array at a Specific Position 
