@@ -1,4 +1,9 @@
 # Start-with-C++
+
+learn something by myself ... listed as C1,C2...
+
+(imp) C1. Redeclaration Error Problem
+
 1. Prime or Non Prime Number
 2. Print Prime no from Range [a,b]
 3. Switch case {Comapring with if}
@@ -18,3 +23,11 @@
 17. Binary to Decimal
 # Array
 18. Size of an array and no of element in array
+19. Printing the Array.
+20. Taking input elemnt from User
+21. Taking input size and elemnt from User
+22. Maximum number and Minimum Number from an array
+23. Search index of element in unsorted array.
+    a) normal
+    b) using function
+24. Insert Element in Array at a Specific Position 
