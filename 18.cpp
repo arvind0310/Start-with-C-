@@ -5,6 +5,7 @@ OR
 max no element than can be stored in this array is = sizeof(arr)/sizeof(arr[0])
 hence max no element== 16/4==4
 
+here if you will enter only 3 element in 4 size array still the size of array will be 4 . but you can not enter the more than 4 elemnt
 */
 
 
