@@ -3,6 +3,7 @@
 learn something by myself ... listed as C1,C2...
 
 (imp) C1. Redeclaration Error Problem
+       
 
 1. Prime or Non Prime Number
 2. Print Prime no from Range [a,b]
@@ -26,9 +27,13 @@ learn something by myself ... listed as C1,C2...
 19. Printing the Array.
 20. Taking input elemnt from User
 21. Taking input size and elemnt from User
-22. Maximum number and Minimum Number from an array
+22. a) Maximum number Using Naive Method (Using fun)[O(n2)] 
+    b) Maximum number and Minimum Number from an array
 23. Search index of element in unsorted array.
     a) normal
     b) using function
 24. Insert Element at the end of Array. 
 25. Insert Element in Array at a Specific Position 
+26. Delete an Given element from the array. 
+    a) Normal
+    b) Using Function
