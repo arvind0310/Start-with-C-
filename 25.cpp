@@ -50,7 +50,7 @@ int n;
 cout<<"enter the size of array: "<<endl;
 cin>>n;
 
-cout<<"enter the"<<n<<" element<<endl;
+cout<<"enter the "<<n<<"element"<<endl;
 for ( int i=0;i<n;i++)
 {
     cin>>arr[i];
@@ -71,7 +71,7 @@ cin>>x;
 // }
 
 int idx=pos-1;
-for(int i=n-1;i>=idx;i--)
+for(int i=n-1;i>=idx;i--) //OR  for(int i=idx;i<n;i++)
 {
     arr[i+1]=arr[i];
 }
