@@ -18,6 +18,8 @@ int main()
     
     arr[i] = elem; // i has become now==n. Nth index ,or  N+1 th position.
     
+    // arr[n]=elem;   // since there are n-1 index and n position in array of n element. so we are adding new elemnt on nth index or n+1 position by arr[n]=elem;
+    
     cout<<"\nThe New Array is:\n";
     for(i=0; i<n+1; i++)
         cout<<arr[i]<<"  ";
