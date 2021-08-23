@@ -38,3 +38,7 @@ learn something by myself ... listed as C1,C2...
 26. Delete an Given element from the array. 
     a) Normal
     b) Using Function
+27. 1st Max and 2nd Maximum in one (Using fun)
+28.  Array is sorted or not [in Non Decreasing Order] Either inc or equal elemnt.
+     a) Bruite Force
+     b) efficient
