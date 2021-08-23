@@ -6,7 +6,7 @@ int largestno(int arr[],int n){
     {
         // bool flag=true;
         int flag=1;
-        for(int j=0;j<n;j++)
+        for(int j=i+1;j<n;j++) //imp j=i+1 is correct not j=0 [mistakes]
         {
             if(arr[j]>arr[i])
             {
