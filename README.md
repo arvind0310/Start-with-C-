@@ -29,6 +29,7 @@ learn something by myself ... listed as C1,C2...
 21. Taking input size and elemnt from User
 22. a) Maximum number Using Naive Method (Using fun)[O(n2)] 
     b) Maximum number and Minimum Number from an array
+    c) Index of Maximum number
 23. Search index of element in unsorted array.
     a) normal
     b) using function
