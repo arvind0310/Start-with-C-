@@ -31,20 +31,22 @@ if(i==n)
 {
     return n;
 }
-for (int j=i; j<n-1; j++) // no need to go till last index bcz .. when 5th elemnt is cpied into 4th ...5th is empty ..stop..cz 6th to 5th not possble..capcity is 5
+for (int j=i; j<n-1; j++) // no need to go till last index bcz .. when 5th elemnt is COPIED into 4th ...5th is same  ..stop..cz 6th to 5th not possble..capcity is 5
 
     {
         arr[j] = arr[j+1];
     }
-return n-1; // we will print till n-1 element cz 1 is removed
+return n-1; // we will print till n-1 element cz 1 is removed 
+             // if u print all element u will get 1 2 4 5 5 
 }
  
 /* Driver program to test above function */
 int main()
 {
-    int arr[] = {11, 15, 6, 8, 9, 10};
+//     int arr[] = {11, 15, 3, 8, 9};
+       int arr[]= {1,2,3,4,5}
     int n = sizeof(arr)/sizeof(arr[0]);
-    int x = 6;
+    int x = 3;
  
     // Delete x from arr[]
     int r = deleteElement(arr, n, x); // "r" is our modified range, r become n-1
