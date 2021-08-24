@@ -9,7 +9,7 @@ int rev(int arr[],int n)
     int low=0,high=n-1;
     while(low<high)
     {
-     int temp;
+      int temp;      // swap program
       temp=arr[low];
       arr[low]=arr[high];
       arr[high]=temp;
@@ -47,7 +47,7 @@ void rev(int arr[],int n)
     int low=0,high=n-1;
     while(low<high)
     {
-     int temp;
+      int temp;   // swap program
       temp=arr[low];
       arr[low]=arr[high];
       arr[high]=temp;
@@ -56,6 +56,7 @@ void rev(int arr[],int n)
       
     }
 }
+
 int main()
 {
     int arr[] = {1, 2, 3, 4, 5, 6};
