@@ -42,3 +42,11 @@ learn something by myself ... listed as C1,C2...
 28.  Array is sorted or not [in Non Decreasing Order] Either inc or equal elemnt.
      a) Bruite Force
      b) efficient
+29. Reverse an Array.
+30. Remove Duplicate from Sorted Array
+       a) Bruite Force
+       b) Efficient
+31. Move Zero at the End.
+       a) Bruite Force
+       b) Efficient
+32. Left Rotate array by One. 
