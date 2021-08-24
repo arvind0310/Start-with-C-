@@ -38,7 +38,7 @@ using namespace std;
 void lefRot(int arr[],int n)
 {
     int temp=arr[0];
-   for(int i=1;i<n;i++) // i=0,1,2,3
+   for(int i=1;i<n;i++) // i=1,2,3,4
    {
       arr[i-1]=arr[i]; 
    }                        // become {2,3,4,5,5}
