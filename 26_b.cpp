@@ -47,10 +47,10 @@ int main()
     int x = 6;
  
     // Delete x from arr[]
-    int r = deleteElement(arr, n, x); // "r" is our modified range
+    int r = deleteElement(arr, n, x); // "r" is our modified range, r become n-1
  
     cout << "Modified array is \n";
-    for (int i=0; i<l; i++)
+    for (int i=0; i<r; i++)
     cout << arr[i] << " ";
  
     return 0;
