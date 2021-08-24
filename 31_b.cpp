@@ -13,6 +13,9 @@ int zeroAtEnd(int arr[],int n)
         if(arr[i]!=0) // will find that index where element is not zero
         {
            arr[res]= arr[i]; // move element of that index to new position {from begning posn}
+            
+//          OR   swap(arr[i],arr[res])
+            
            res++;
         }
     }
