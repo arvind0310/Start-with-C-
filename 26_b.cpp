@@ -32,13 +32,16 @@ if(i==n)
     return n;
 }
 for (int j=i; j<n-1; j++) // no need to go till last index bcz .. when 5th elemnt is COPIED into 4th ...5th is same  ..stop..cz 6th to 5th not possble..capcity is 5
+                          // for(int j=i+1;j<n;j++)
+                           //     arr[j-1] = arr[j];
 
     {
+    
         arr[j] = arr[j+1];
     }
-return n-1; // we will print till n-1 element cz 1 is removed 
-             // if u print all element u will get 1 2 4 5 5 
+return n-1; // we will print till n-1 element cz 1 is removed ...if u print all element u will get 1 2 4 5 5 
 }
+             
  
 /* Driver program to test above function */
 int main()
