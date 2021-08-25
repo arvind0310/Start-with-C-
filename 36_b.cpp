@@ -1,5 +1,4 @@
 #include<iostream>
-#include<climits>
 using namespace std;
 
 int maxksum(int arr[], int n, int k)	// you can use int arr[] will get same ans
@@ -33,7 +32,7 @@ main ()
 
     int arr[] = {1,8,30,-5,20,7};
 
-  // int arr[] = {-1,-2,-3,-4,-5}; thats why INT_MIN was taken(-infi) instead of 0, so that we can compare list to list min value.otherwise ans would be zero. 
+  // int arr[] = {-1,-2,-3,-4,-5};
 
   int n = sizeof (arr) / sizeof (arr[0]);
   cout << maxksum(arr, n, 3);
