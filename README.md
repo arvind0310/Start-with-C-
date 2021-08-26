@@ -61,6 +61,9 @@ learn something by myself ... listed as C1,C2...
        a) Bruite Force
        b) Efficient (Window Sliding Tech)
 # Searching 
-
 37. Liniar Search 
 38. Binary Search
+# Sorting 
+39. Selection Sort
+40. Bubble Sort
+# 2D Matrix
