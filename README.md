@@ -44,8 +44,8 @@ learn something by myself ... listed as C1,C2...
      b) efficient
 29. Reverse an Array.
 30. Remove Duplicate from Sorted Array
-        *a) Bruite Force
-        *b) Efficient
+        a) Bruite Force
+        b) Efficient
 31. Move Zero at the End.
        a) Bruite Force
        b) Efficient
@@ -68,3 +68,4 @@ learn something by myself ... listed as C1,C2...
 40. Bubble Sort
 41. Insertion Sort
 # 2D Matrix
+42. Initialize 2D Matrix 
