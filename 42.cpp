@@ -25,7 +25,8 @@ int main()
             { 
                 cout<<arr[i][j]<<" ";   // will print one row;       
             }
-            cout<<endl;
+//             cout<<endl;
+            cout<<"\n"; // print next row in diffrent line 
         }
 
     
