@@ -66,4 +66,5 @@ learn something by myself ... listed as C1,C2...
 # Sorting 
 39. Selection Sort
 40. Bubble Sort
+41. Insertion Sort
 # 2D Matrix
