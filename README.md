@@ -60,6 +60,8 @@ learn something by myself ... listed as C1,C2...
 36. Maximum sum of K consecutive element
        a) Bruite Force
        b) Efficient (Window Sliding Tech)
+ # SubArray
+037. Sum of all SubArray.
 # Searching 
 37. Liniar Search 
 38. Binary Search
@@ -69,3 +71,5 @@ learn something by myself ... listed as C1,C2...
 41. Insertion Sort
 # 2D Matrix
 42. Initialize 2D Matrix 
+43. search an element in matrix
+44. Matrix in spiral form
