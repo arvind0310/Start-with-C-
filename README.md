@@ -5,15 +5,15 @@ learn something by myself ... listed as C1,C2...
 (imp) C1. Redeclaration Error Problem
        
 
-1. Prime or Non Prime Number
-2. Print Prime no from Range [a,b]
-3. Switch case {Comapring with if}
-4. Bit Wise Operator
-5. Patterns
-6. Reverse a number
-7. Armstrong Number
-8. Functions 
-9. Prime nos using Function [Programm 1,2]
+01. Prime or Non Prime Number
+02. Print Prime no from Range [a,b]
+03. Switch case {Comapring with if}
+04. Bit Wise Operator
+05. Patterns
+06. Reverse a number
+07. Armstrong Number
+08. Functions 
+09. Prime nos using Function [Programm 1,2]
 10. Fibonacci numbers
 11. Factorial
 12. Combinations Calculator (nCr)
