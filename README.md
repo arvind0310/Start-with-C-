@@ -50,3 +50,17 @@ learn something by myself ... listed as C1,C2...
        a) Bruite Force
        b) Efficient
 32. Left Rotate array by One. 
+33. Left Rotate array by "d" distance.
+34. Maximum value of arr[j]-arr[i]
+       a) Bruite Force
+       b) Efficient
+35. Maximum consecutive 1's
+       a) Bruite Force
+       b) Efficient
+36. Maximum sum of K consecutive element
+       a) Bruite Force
+       b) Efficient (Window Sliding Tech)
+# Searching 
+
+37. Liniar Search 
+38. Binary Search
