@@ -61,7 +61,7 @@ learn something by myself ... listed as C1,C2...
        a) Bruite Force
        b) Efficient (Window Sliding Tech)
  # SubArray
-037. Sum of all SubArray.
+0_37. Sum of all SubArray.
 # Searching 
 37. Liniar Search 
 38. Binary Search
