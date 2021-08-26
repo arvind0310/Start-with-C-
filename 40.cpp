@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-void selectSort(int arr[],int n)
+void BubSort(int arr[],int n)
 {
  
 for(int i=0;i<n-1;i++)
@@ -26,7 +26,7 @@ int main()
     int arr[] ={2,10,8,7};
     
     int n = sizeof(arr)/sizeof(arr[0]);
-    selectSort(arr, n);
+     BubSort(arr, n);
     cout << "Sorted array: \n";
     for(int i=0;i<n;i++)
     {
@@ -43,7 +43,7 @@ int main()
 #include<iostream>
 using namespace std;
 
-void selectSort(int arr[],int n)
+void BubSort(int arr[],int n)
 {
  
 for(int i=0;i<n-1;i++)
@@ -67,7 +67,7 @@ int main()
     int arr[] ={2,10,8,7};
     
     int n = sizeof(arr)/sizeof(arr[0]);
-    selectSort(arr, n);
+     BubSort(arr, n);
     cout << "Sorted array: \n";
     for(int i=0;i<n;i++)
     {
