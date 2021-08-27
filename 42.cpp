@@ -10,7 +10,7 @@ int main()
     cin>>m>>n;
     int arr[m][n];
     cout<<"enter the element: "<<endl;
-    for(int i=0;i<n;i++)
+    for(int i=0;i<m;i++)
     {
         for(int j=0;j<n;j++)
         {
@@ -19,7 +19,7 @@ int main()
     }
     
     cout<<"Output array is: "<<endl;
-        for(int i=0;i<n;i++)
+        for(int i=0;i<m;i++)
         {
             for(int j=0;j<n;j++)
             { 
