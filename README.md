@@ -11,9 +11,9 @@ learn something by myself ... listed as C1,C2...
 04. Bit Wise Operator
 05. Patterns
 06. Reverse a number
-07. Armstrong Number
+07. Armstrong Number  a) Palindrom 
 08. Functions 
-09. Prime number using Function [Programm 1,2]
+09. Prime nos using Function [Programm 1,2]
 10. Fibonacci numbers
 11. Factorial
 12. Combinations Calculator (nCr)
@@ -73,3 +73,13 @@ learn something by myself ... listed as C1,C2...
 42. Initialize 2D Matrix 
 43. search an element in matrix
 44. Matrix in spiral form
+45. Transpose of matrix
+46. Multiplication of matrix
+# Char Array
+47. Initialization 
+48. Palindrom
+# Pointer 
+49. Introduction Code 
+50. Array and Pointers
+51. Pointer to Pointer
+52. Call By value 
