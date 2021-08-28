@@ -13,7 +13,7 @@ learn something by myself ... listed as C1,C2...
 06. Reverse a number
 07. Armstrong Number
 08. Functions 
-09. Prime nos using Function [Programm 1,2]
+09. Prime number using Function [Programm 1,2]
 10. Fibonacci numbers
 11. Factorial
 12. Combinations Calculator (nCr)
