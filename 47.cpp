@@ -22,7 +22,7 @@ int main()
 char arr[100]="arvind";
 int i=0;
 
-while(arr[i]='\0') // out of loop when it will get Null Character ..here after "d"
+while(arr[i]!='\0') // out of loop when it will get Null Character ..here after "d"
 {
     cout<<arr[i]<<endl;
     i++;
