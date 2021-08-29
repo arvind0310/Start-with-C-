@@ -45,3 +45,24 @@ cout<<"value of a inside main: "<<a; // a=1
     return 0;
 }
   
+
+//____________________________________________________+___________________________________________________
+  
+#include<iostream>
+using namespace std;
+
+
+int increment(int a) 
+{
+ 
+    a++;     
+    return a; // return means when ever this fun will be called always give you value ==2 
+}
+
+int main()
+{
+
+int a=1;
+cout<<increment(a);   // a=2
+    return 0;
+}
