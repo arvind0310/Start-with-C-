@@ -1,4 +1,4 @@
-// ASCII of a=65 and A=97
+// ASCII of a=97 and A=65
 
 
 
