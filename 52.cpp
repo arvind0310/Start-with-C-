@@ -29,3 +29,26 @@ cout<<"value of a inside main: "<<a; // a=1
     return 0;
 }
   
+
+
+//___________________________+________________________________________________________+__________________________________________________________________
+
+
+#include<iostream>
+using namespace std;
+
+
+int increment(int a) 
+{
+    a++;
+   return a;  // return means this fun will have value "2" when ever it will be called ...
+}
+
+int main()
+{
+
+int a=1;  
+cout<<increment(a); // OUTPUT : 2
+
+    return 0;
+}
