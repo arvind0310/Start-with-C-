@@ -20,8 +20,38 @@ cout<<s;
     return 0;
     
 }
-//____________________________+___________________________________+_____________________________________________+_______________________________
+//________    __________________  Method 2:   ___________________  ______________________________
 
+//METHOD 2: 
+#include<iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+int main(){
+
+
+string s="arvind";
+
+transform(s.begin(), s.end(), s.begin(),::toupper);
+cout<<s;
+
+    return 0;
+    
+}
+
+
+
+
+
+
+
+
+
+//____________________________LOWER CASE ___________________________________+_____________________________________________+_______________________________________________________
+
+
+
+// LOWER CASE:
 #include<iostream>
 #include<string>
 using namespace std;
@@ -37,4 +67,22 @@ cout<<s;
   return 0;
 }
 
+
+//________    __________________  Method 2:  ___________________  ______________________________
+
+#include<iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+int main(){
+
+
+string s="ARVIND";
+
+transform(s.begin(), s.end(), s.begin(),::tolower);
+cout<<s;
+
+    return 0;
+    
+}
 
