@@ -23,6 +23,7 @@ learn something by myself ... listed as C1,C2...
 16. Check pythagorian triplet
 17. Binary to Decimal
 # Array
+18(A). Intialize array elemnts as 0.
 18. Size of an array and no of element in array
 19. Printing the Array.
 20. Taking input elemnt from User
@@ -88,3 +89,4 @@ learn something by myself ... listed as C1,C2...
        (b) Swap
 # String
 54. Introduction
+55. Convert into Upper case and Lower case
