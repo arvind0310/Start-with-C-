@@ -119,3 +119,19 @@ cout<<name;  // arvind kumar yadav
 
     return 0;
 }
+
+//_________________________+____________________________________________________+______________________________________+_____________________________
+
+#include<iostream>
+#include<string>
+using namespace std;
+
+
+int main(){
+    
+    cout<<('a'>'A'); // 1 ... means true. 'a' is 32 time greater than 'A'.
+    
+    return 0;
+    
+}
+
