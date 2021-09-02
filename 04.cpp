@@ -11,15 +11,33 @@ cout<<"a&b is:"<<a & b;
 cout<<"a|b is:"<<a|b;
 
 
-c=a&b;
-cout<<c;
+// c=a&b;
+// cout<<c;
   return 0;
 }
 
 
+//________________________+__________________________________________+_________________________________________
 /*    correct   */
 
+#include<iostream>
+using namespace std;
 
+int main ()
+{
+int a=60;
+int b=13;
+cout<<"a&b is:"<<(a & b);
+cout<<"a|b is:"<<(a|b);
+
+
+// c=a&b;
+// cout<<c;
+  return 0;
+}
+
+
+//________________________+__________________________________________+_________________________________________
 
 #include <iostream>
 using namespace std;
@@ -49,3 +67,5 @@ main() {
 
    return 0;
 }
+
+
