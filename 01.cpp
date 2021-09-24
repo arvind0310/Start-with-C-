@@ -41,10 +41,9 @@ using namespace std;
 int
 main ()
 {
-  int n;
+  int i,n;
   cin >> n;
-  int i;
-  for (int i = 2; i < n; i++) 
+  for (i = 2; i < n; i++) 
     {
       if (n % i == 0) // will enter this loop when condition will be true ..else not(out of loop)
 	{
