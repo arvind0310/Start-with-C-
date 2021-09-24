@@ -1,3 +1,36 @@
+//ERROR
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n;
+    cin>>n;
+    int i;
+    for(int i=2;i<n;i++)
+    {
+        if(n%i==0)
+        {
+            cout<<"Non Prime number";
+            break;
+        }
+    }
+    cout<<i;    // will print i==0 (perhaps int i from upper )
+	
+    // if(i==n)
+    // {
+    //     cout<<"prime number"<<endl;
+        
+    // }
+    return 0;
+}
+
+
+
+//______________________________________+_______________________________________________+________________________________________________________________________
+
 #include<iostream>
 using namespace std;
 int
