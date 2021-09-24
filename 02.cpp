@@ -16,7 +16,7 @@ main ()
       }
       
     if(i==a)// doest it have completed the iteration ?if yes means there was no number who can do a%i==0 ..means this "Ai" is PRIME no. 
-    {
+    
     {
        cout<<a<<endl; 
     }
