@@ -1,3 +1,8 @@
+//>>> FLAG method is most clear..even in python
+
+
+
+
 //ERROR
 
 
